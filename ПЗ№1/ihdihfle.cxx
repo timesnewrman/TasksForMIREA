@@ -12,4 +12,6 @@ int main() {
     a = b - a;
 
     std::cout << a << '\n' << b;
+
+    return 0;
 }
