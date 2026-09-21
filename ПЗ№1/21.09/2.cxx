@@ -1,7 +1,8 @@
 #include <iostream>
 #include <bits/stdc++.h>
 
-int n;
+int main(){
+    int n;
     std::cin >> n;
     std::cout << '\n' << '\n';
    
@@ -16,3 +17,4 @@ int n;
     std::cout << c;
    
     return 0;
+}
