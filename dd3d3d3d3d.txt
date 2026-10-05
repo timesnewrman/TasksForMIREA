@@ -1,6 +1,0 @@
-Алгоритм замены лампочки в люстре
-
--> disble the electric grid
--> unscrew the lightbulb
--> install the new lightbulb please use a towel to decrease the chance of damaging the lightbulb
--> enable the electric grid back
